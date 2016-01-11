@@ -51,13 +51,13 @@ digital publications.
 
 ### Colophon
 
-\*\*Author:\*\* Jess van Zyl
+**Author:** Jess van Zyl
 
-\*\*Editorial support:\*\* Miriam Rasch
+**Editorial support:** Miriam Rasch
 
-\*\*Design:\*\* Lasse van den Bosch & Marlon Harder (Template)
+**Design:** Lasse van den Bosch & Marlon Harder (Template)
 
-\*\*With thanks to:\*\* Hackers&Designers, INC, Torque, Silvio Lorusso,
+**With thanks to:** Hackers&Designers, INC, Torque, Silvio Lorusso,
 Andre Castro, Gottfried Haider, Michael Murtaugh and the DPT collective.
 
 # Intro to the HPToolkit Workflow 1/4
@@ -154,7 +154,7 @@ Machine\* will generate a new ePub/html file with the latest changes.
 
 <div class="difficulty-level">difficulty-level: easy</div>
 
-\*\*Remember\*\*
+**Remember**
 
 Make sure there are no spaces in file names, if you want to change just
 one file using Pandoc you can run this command in command line pandoc
@@ -236,7 +236,7 @@ Using <a href="http://hpt.publishinglab.org/index.php?about">\*the
 Sausage Machine\*</a> method to create a book project, you will
 need to open the ePub folder to access the css.
 
-\*\*Remember\*\*
+**Remember**
 
 Though you may take time choosing fonts and colors for your ePubs, they
 can and will be changed by the human readers or by the devices.
@@ -513,17 +513,15 @@ devices
 
 The IDPF brought out a specification for ePub Adaptive Layout here
 
-Future
+### Future
 
 <blockquote>
-
 "With a proper API (an application programming interface, which allows
 one authorised application to read and manipulate data in another),
 entrepreneurs outside of Amazon or Apple could step in and offer more
 beautiful, efficient, or innovative reading containers for our books,
 leaving the bigger companies to do what they do best: payments and
 infrastructure." - Craig Mod
-
 </blockquote>
 
 Ideally, artist books could incorporate the interactivity made possible
