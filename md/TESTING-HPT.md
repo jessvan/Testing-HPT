@@ -72,8 +72,8 @@ instructions below.
 
 2\. The latest option is to use our platform created by Gottfried Haider,
 this eliminates the need for command line and simplifies the setup on
-GitHub. You can find it &lt;a
-href="http://hpt.publishinglab.org/"&gt;here&lt;/a&gt;.
+GitHub. You can find it <a
+href="http://hpt.publishinglab.org/">here</a>.
 
 ### Example
 
@@ -81,9 +81,9 @@ The workflow below is a compilation of efforts from the Hybrid
 Publishing Toolkit, Andre Castro, Michael Murtaugh and others from the
 DPT collective.
 
-example: &lt;a
-href="http://networkcultures.org/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/"&gt;From
-Print to eBooks: A Hybrid Publishing Toolkit for the Arts&lt;/a&gt;
+example: <a
+href="http://networkcultures.org/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/">From
+Print to eBooks: A Hybrid Publishing Toolkit for the Arts</a>
 
 ### Technical considerations
 
@@ -96,8 +96,8 @@ or png).
 
 - MacDown (to edit with markdown, XCode is also fine)
 
-- install Calibre (to view/edit ebooks) &lt;a
-href="http://calibre-ebook.com/download"&gt;here&lt;/a&gt;
+- install Calibre (to view/edit ebooks) <a
+href="http://calibre-ebook.com/download">here</a>
 
 \*There are a few additional things you will need if you use the command
 line method (listed above as option 1):
@@ -106,8 +106,8 @@ line method (listed above as option 1):
 
 - you will need to familiarise yourself with the command line (terminal
 on Mac or go to the Start menu on Windows and type cmd into search/run -
-more &lt;a
-href="http://www.computerhope.com/issues/chusedos.htm"&gt;here&lt;/a&gt;)
+more <a
+href="http://www.computerhope.com/issues/chusedos.htm">here</a>)
 
 You can find the makefile here on GitHub.
 
@@ -116,30 +116,30 @@ You can find the makefile here on GitHub.
 ### Method 1
 
 Andre Castro prepared an excellent workshop, based on an updated version
-of the Hybrid Publishing Toolkit Workflow &lt;a
-href="https://github.com/DigitalPublishingToolkit/workshop-going\_hybrid/wiki"&gt;here&lt;/a&gt;.
+of the Hybrid Publishing Toolkit Workflow <a
+href="https://github.com/DigitalPublishingToolkit/workshop-going\_hybrid/wiki">here</a>.
 
 See the notes under \*Day 2\* for resource files and a description of
 the designer, developer and editor roles.
 
-&lt;div class="difficulty-level"&gt;difficulty-level:
-moderate&lt;/div&gt;
+<div class="difficulty-level">difficulty-level:
+moderate</div>
 
 ### Method 2
 
 Here's a quick video of how \*the Sausage Machine\* turns a Word
 document into an ePub:
 
-&lt;video width="400" height="320" controls="controls"
-autoplay="autoplay" loop="loop"&gt;
+<video width="400" height="320" controls="controls"
+autoplay="autoplay" loop="loop">
 
-&lt;source src="video/Sausage-Machine-Demo-epub.mp4" type="video/mp4"
-/&gt;
+<source src="video/Sausage-Machine-Demo-epub.mp4" type="video/mp4"
+/>
 
-&lt;/video&gt;
+</video>
 
 Using \*the Sausage Machine\* platform, first you drag and drop your
-text files &lt;a href="http://hpt.publishinglab.org/"&gt;here&lt;/a&gt;
+text files <a href="http://hpt.publishinglab.org/">here</a>
 
 then you can choose an output: markdown, html or ePub from the drop down
 menu and click 'Update'
@@ -152,7 +152,7 @@ Once you make changes to your source file, make sure to commit your
 changes on GitHub and then sync. After a few minutes \*the Sausage
 Machine\* will generate a new ePub/html file with the latest changes.
 
-&lt;div class="difficulty-level"&gt;difficulty-level: easy&lt;/div&gt;
+<div class="difficulty-level">difficulty-level: easy</div>
 
 \*\*Remember\*\*
 
@@ -173,16 +173,16 @@ Make sure you validate the ePub file before you send it out into the
 world. If it isn't valid Google Play Books and other ePub readers may
 not be able to open your new book, causing reader frustration!
 
-You can use the &lt;a href="http://validator.idpf.org/"&gt;online
-validator&lt;/a&gt; for smaller ePubs
+You can use the <a href="http://validator.idpf.org/">online
+validator</a> for smaller ePubs
 
-or install the validator on your Desktop from &lt;a
-href="https://github.com/idpf/epubcheck"&gt;GitHub&lt;/a&gt;.
+or install the validator on your Desktop from <a
+href="https://github.com/idpf/epubcheck">GitHub</a>.
 
 The idpf includes a useful wiki to help you understand
 
-&lt;a
-href="https://github.com/IDPF/epubcheck/wiki/Errors"&gt;errors&lt;/a&gt;.
+<a
+href="https://github.com/IDPF/epubcheck/wiki/Errors">errors</a>.
 
 when validating your ePub on your desktop, navigate to the folder with
 the .jar file and copy this in your commandline:
@@ -194,27 +194,27 @@ your own epub.)
 
 ### Sources / list of inspiration
 
-&lt;a
-href="http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/"&gt;Hybrid
-Workflow&lt;/a&gt; is a workflow developed to help art publishers create
+<a
+href="http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/">Hybrid
+Workflow</a> is a workflow developed to help art publishers create
 digital versions of their publications, focused on an ePub3 output.
 
-&lt;a href="http://hpt.publishinglab.org/index.php?about"&gt;The Sausage
-Machine platform&lt;/a&gt; is based on Pandoc and designed to complement
+<a href="http://hpt.publishinglab.org/index.php?about">The Sausage
+Machine platform</a> is based on Pandoc and designed to complement
 and simplify the Hybrid Publishing workflow by ouputting the desired
 formats and setting up a repository for you.
 
-&lt;a
-href="http://en.flossmanuals.net/command-line/getting-started/"&gt; A
-good resource &lt;/a&gt; for getting started with command line.
+<a
+href="http://en.flossmanuals.net/command-line/getting-started/"> A
+good resource </a> for getting started with command line.
 
 # Styling Reflowable ePubs 2/4
 
 ## Intro
 
 Once you've created your ePub3 using the Hybrid Publishing Toolkit
-method \[link to page 1/4\] or \*the Sausage Machine\* &lt;a
-href="http://hpt.publishinglab.org/index.php?about"&gt;platform&lt;/a&gt;,
+method \[link to page 1/4\] or \*the Sausage Machine\* <a
+href="http://hpt.publishinglab.org/index.php?about">platform</a>,
 you can add your own style to it. This can be done with some changes to
 the markdown file and mostly through the css stylesheet.
 
@@ -232,8 +232,8 @@ websites is much more limited in eBooks as of this writing (2016).
 
 ## How
 
-Using &lt;a href="http://hpt.publishinglab.org/index.php?about"&gt;\*the
-Sausage Machine\*&lt;/a&gt; method to create a book project, you will
+Using <a href="http://hpt.publishinglab.org/index.php?about">\*the
+Sausage Machine\*</a> method to create a book project, you will
 need to open the ePub folder to access the css.
 
 \*\*Remember\*\*
@@ -244,7 +244,7 @@ can and will be changed by the human readers or by the devices.
 As an example, this is the same book as seen on a mobile phone (Android
 OS with Gitden reader):
 
-!\[\](imgs/Screenshot\_Gitden-reader-android.png)
+![](imgs/Screenshot\_Gitden-reader-android.png)
 
 and on a Nook e-reader:
 
@@ -256,11 +256,11 @@ do in print or web.
 
 These publications were all created using the Hybrid Publishing method:
 
-The publications series of the INC &lt;a
-href="http://networkcultures.org/publications/#epub"&gt;here&lt;/a&gt;.
+The publications series of the INC <a
+href="http://networkcultures.org/publications/#epub">here</a>.
 
-Knowledge Mile &lt;a
-href="http://www.publishinglab.nl/blog/publication/the-hackable-city-a-research-manifesto-and-design-toolkit/"&gt;series&lt;/a&gt;
+Knowledge Mile <a
+href="http://www.publishinglab.nl/blog/publication/the-hackable-city-a-research-manifesto-and-design-toolkit/">series</a>
 
 # Fixed Layout ePub 3/4
 
@@ -272,8 +272,8 @@ ability to be sold on Amazon. A main disadvantage is the lack of
 distribution opportunities (meaning not many ereaders will display
 them). The other disadvantage is the format is not responsive - like a
 .pdf it requires a lot of zooming to read on a mobile. You can see
-examples &lt;a
-href="http://www.publishinglab.nl/blog/2015/11/09/fixed-layout-epubs-useful-or-backward/"&gt;here&lt;/a&gt;.
+examples <a
+href="http://www.publishinglab.nl/blog/2015/11/09/fixed-layout-epubs-useful-or-backward/">here</a>.
 
 ### The pros
 
@@ -302,13 +302,13 @@ The format doesn't scale for mobile reading.
 
 ### The controversy
 
-&lt;blockquote&gt;
+<blockquote>
 
 "I think they sound like a pointless step backward – a filetype with all
 the rigidity of PDF but with none of the cross-platform support." - Ben
 Hollingum
 
-&lt;/blockquote&gt;
+</blockquote>
 
 The quote above epitomises the Digital Reader article's list of problems
 with fixed layout books. Digital Reader proposes that eBook designers
@@ -338,14 +338,14 @@ e-reader makers.
 ### The experiment(s)
 
 To demonstrate, I created a fixed layout epub in InDD CC 2015. It didn't
-take much time to file &gt; export fixed layout, and the pros are that
+take much time to file > export fixed layout, and the pros are that
 it retains my weird text wrap, and the caption over the video. Since I
 wrote about the display in the cons section above, I thought I'd also
 show what it looks like - not just tell. When viewed in iBooks, changing
 the width of the viewport (screen) does not change the size of the text
 and it is only suitable for viewing on an ipad.
 
-!\[\](imgs/iphone4s-300x230.jpg)
+![](imgs/iphone4s-300x230.jpg)
 
 Fixed layout viewed on iPhone4s
 
@@ -360,8 +360,8 @@ imagine if it had been 130 pages.
 ### Examples
 
 Now that you've seen the rough-and ready test, here is an exciting
-example of a hand-coded ePub3, &lt;a
-href="https://vimeo.com/25185473"&gt;Kadath&lt;/a&gt;, by Walrus Studio,
+example of a hand-coded ePub3, <a
+href="https://vimeo.com/25185473">Kadath</a>, by Walrus Studio,
 which includes columns and an interactive map. This book is really
 inspiring, but it's also custom-made - requiring a skilled developer and
 robust budget.
@@ -392,34 +392,34 @@ The PublishingLab worked together with UNStudio to prototype a custom
 App, in the form of an enhanced digital book that complemented their
 print edition.
 
-Read more about the project &lt;a
-href="http://www.publishinglab.nl/unstudio/"&gt;here&lt;/a&gt;.
+Read more about the project <a
+href="http://www.publishinglab.nl/unstudio/">here</a>.
 
 The team created a custom menu for the book:
 
-!\[\](imgs/menu-UNStudio.jpg)
+![](imgs/menu-UNStudio.jpg)
 
 With rich media eBooks like this, it is possible to include more
 interactive features. This chapter starts with a video scroll
 introduction that the user controls by swiping down on the app.
 
-!\[\](imgs/video-scroll.gif)
+![](imgs/video-scroll.gif)
 
 Since this App was specifically designed for an iPad, it could
 capitalise on the built-in functions of the iPad, like swiping to the
 next chapter.
 
-&lt;video width="400" height="320" controls="controls"
-autoplay="autoplay" loop="loop"&gt;
+<video width="400" height="320" controls="controls"
+autoplay="autoplay" loop="loop">
 
-&lt;source src="video/video-transition2.mp4" type="video/mp4" /&gt;
+<source src="video/video-transition2.mp4" type="video/mp4" />
 
-&lt;/video&gt;
+</video>
 
 Format: Web App
 
-&lt;div class="difficulty-level"&gt;difficulty-level: needs expert
-help&lt;/div&gt;
+<div class="difficulty-level">difficulty-level: needs expert
+help</div>
 
 example 2:
 
@@ -431,13 +431,13 @@ Demand has been print on demand and ePub formats, but the PublishingLab
 team saw an opportunity in the online format to take improve the
 accessibility of the content and improve navigation design.
 
-Read more about the project &lt;a
-href="http://www.publishinglab.nl/navigating-tod/"&gt;here&lt;/a&gt;.
+Read more about the project <a
+href="http://www.publishinglab.nl/navigating-tod/">here</a>.
 
 Format: Online reading, ePub3 & Print on Demand (POD)
 
-&lt;div class="difficulty-level"&gt;difficulty-level: needs expert
-help&lt;/div&gt;
+<div class="difficulty-level">difficulty-level: needs expert
+help</div>
 
 ### technical considerations
 
@@ -463,28 +463,28 @@ using javascript.
 PublishingLab spoke to other makers and publishers about their digital
 publications. This is a short inventory of what we've found so far...
 
-&lt;a href="http://torquetorque.net/"&gt;Torque&lt;/a&gt;, a UK based
+<a href="http://torquetorque.net/">Torque</a>, a UK based
 publisher created ePubs as well as developing a speed reading App for
 their first book.
 
 Format: App & ePub
 
-&lt;a
-href="http://hackersanddesigners.nl/#/"&gt;Hackers&Designers&lt;/a&gt;
-use MediaWiki and &lt;a href="http://beyond-social.org/"&gt;Andre
-Castro&lt;/a&gt; used MediaWiki as well as css to create a printed
-version of the design magazine in partnership with studio &lt;a
-href="http://template01.info/"&gt;Template&lt;/a&gt;.
+<a
+href="http://hackersanddesigners.nl/#/">Hackers&Designers</a>
+use MediaWiki and <a href="http://beyond-social.org/">Andre
+Castro</a> used MediaWiki as well as css to create a printed
+version of the design magazine in partnership with studio <a
+href="http://template01.info/">Template</a>.
 
 Format: Online reading & print
 
-&lt;a href="http://beta.thepeoplesebook.net/"&gt;The People's
-E-Book&lt;/a&gt;
+<a href="http://beta.thepeoplesebook.net/">The People's
+E-Book</a>
 
 The People’s E-book is a super-simple online tool with an intuitive
 visual interface to allow anyone to make e-books quickly and for free.
-You can find out more &lt;a
-href="http://networkcultures.org/outofink/2013/02/11/the-peoples-e-book/"&gt;here&lt;/a&gt;.
+You can find out more <a
+href="http://networkcultures.org/outofink/2013/02/11/the-peoples-e-book/">here</a>.
 
 Format: Platform & ePub3
 
@@ -515,7 +515,7 @@ The IDPF brought out a specification for ePub Adaptive Layout here
 
 Future
 
-&lt;blockquote&gt;
+<blockquote>
 
 "With a proper API (an application programming interface, which allows
 one authorised application to read and manipulate data in another),
@@ -524,7 +524,7 @@ beautiful, efficient, or innovative reading containers for our books,
 leaving the bigger companies to do what they do best: payments and
 infrastructure." - Craig Mod
 
-&lt;/blockquote&gt;
+</blockquote>
 
 Ideally, artist books could incorporate the interactivity made possible
 with ePub3 with custom layouts which really reflect the unique visual
