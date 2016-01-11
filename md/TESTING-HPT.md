@@ -17,13 +17,13 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# \# How to: Design solutions for digital publishing \[Home page\]
+# How to: Design solutions for digital publishing \[Home page\]
 
-\#\# Introduction
+## Introduction
 
 What are the visual options for artistic digital publications?
 
-\#\#\# What can you find in this How To?
+### What can you find in this How To?
 
 This site introduces the Hybrid Publishing Workflow for creating
 multiple publications from one source file (including eBooks as ePub3
@@ -44,12 +44,12 @@ Sections:
 
 4\. Other digital publishing options
 
-\#\#\# Who is this How To for?
+### Who is this How To for?
 
 Small publishers, arts publishers, designers and developers creating
 digital publications.
 
-\#\#\# Colophon
+### Colophon
 
 \*\*Author:\*\* Jess van Zyl
 
@@ -60,9 +60,9 @@ digital publications.
 \*\*With thanks to:\*\* Hackers&Designers, INC, Torque, Silvio Lorusso,
 Andre Castro, Gottfried Haider, Michael Murtaugh and the DPT collective.
 
-# \# Intro to the HPToolkit Workflow 1/4
+# Intro to the HPToolkit Workflow 1/4
 
-\#\# Intro
+## Intro
 
 The Hybrid Publishing Toolkit provides two methods of creating an ePub:
 
@@ -75,7 +75,7 @@ this eliminates the need for command line and simplifies the setup on
 GitHub. You can find it &lt;a
 href="http://hpt.publishinglab.org/"&gt;here&lt;/a&gt;.
 
-\#\#\# Example
+### Example
 
 The workflow below is a compilation of efforts from the Hybrid
 Publishing Toolkit, Andre Castro, Michael Murtaugh and others from the
@@ -85,7 +85,7 @@ example: &lt;a
 href="http://networkcultures.org/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/"&gt;From
 Print to eBooks: A Hybrid Publishing Toolkit for the Arts&lt;/a&gt;
 
-\#\#\# Technical considerations
+### Technical considerations
 
 Before you begin:
 
@@ -111,9 +111,9 @@ href="http://www.computerhope.com/issues/chusedos.htm"&gt;here&lt;/a&gt;)
 
 You can find the makefile here on GitHub.
 
-\#\# How: Instructions for Creating an ePub
+## How: Instructions for Creating an ePub
 
-\#\#\# Method 1
+### Method 1
 
 Andre Castro prepared an excellent workshop, based on an updated version
 of the Hybrid Publishing Toolkit Workflow &lt;a
@@ -125,7 +125,7 @@ the designer, developer and editor roles.
 &lt;div class="difficulty-level"&gt;difficulty-level:
 moderate&lt;/div&gt;
 
-\#\#\# Method 2
+### Method 2
 
 Here's a quick video of how \*the Sausage Machine\* turns a Word
 document into an ePub:
@@ -167,7 +167,7 @@ ePub book file.
 
 Formats: ePub3, html, icmls (for InDesign)
 
-\#\#\# Validating your ePub file
+### Validating your ePub file
 
 Make sure you validate the ePub file before you send it out into the
 world. If it isn't valid Google Play Books and other ePub readers may
@@ -192,7 +192,7 @@ java -jar epubcheck.jar file.epub
 (Make sure to replace the generic file.epub with the location + name of
 your own epub.)
 
-\#\#\# Sources / list of inspiration
+### Sources / list of inspiration
 
 &lt;a
 href="http://networkcultures.org/digitalpublishing/2014/10/21/hybrid-workflow-how-to-making-automated-workflows-part-2/"&gt;Hybrid
@@ -208,9 +208,9 @@ formats and setting up a repository for you.
 href="http://en.flossmanuals.net/command-line/getting-started/"&gt; A
 good resource &lt;/a&gt; for getting started with command line.
 
-# \# Styling Reflowable ePubs 2/4
+# Styling Reflowable ePubs 2/4
 
-\#\# Intro
+## Intro
 
 Once you've created your ePub3 using the Hybrid Publishing Toolkit
 method \[link to page 1/4\] or \*the Sausage Machine\* &lt;a
@@ -218,11 +218,11 @@ href="http://hpt.publishinglab.org/index.php?about"&gt;platform&lt;/a&gt;,
 you can add your own style to it. This can be done with some changes to
 the markdown file and mostly through the css stylesheet.
 
-\#\#\# Example
+### Example
 
 PublishingLab template file with test cover.
 
-\#\#\# technical considerations
+### technical considerations
 
 To create and distribute your ePub you will need at least a basic
 knowledge of css and some knowledge of the specifications of the idpf to
@@ -230,7 +230,7 @@ validate your book. Test the ePub on different ereader devices to know
 which features are supported. Note: The control you have with css on
 websites is much more limited in eBooks as of this writing (2016).
 
-\#\# How
+## How
 
 Using &lt;a href="http://hpt.publishinglab.org/index.php?about"&gt;\*the
 Sausage Machine\*&lt;/a&gt; method to create a book project, you will
@@ -252,19 +252,19 @@ Test the ebook on the device(s) your readers most commonly use, keeping
 in mind that you do not have as much control in the ebook format as you
 do in print or web.
 
-\#\#\# sources / list of inspiration
+### sources / list of inspiration
 
 These publications were all created using the Hybrid Publishing method:
 
 The publications series of the INC &lt;a
-href="http://networkcultures.org/publications/\#epub"&gt;here&lt;/a&gt;.
+href="http://networkcultures.org/publications/#epub"&gt;here&lt;/a&gt;.
 
 Knowledge Mile &lt;a
 href="http://www.publishinglab.nl/blog/publication/the-hackable-city-a-research-manifesto-and-design-toolkit/"&gt;series&lt;/a&gt;
 
-# \# Fixed Layout ePub 3/4
+# Fixed Layout ePub 3/4
 
-\#\# Intro
+## Intro
 
 A fixed layout epub (FXL) can be described as a hybrid of pdf & ePub;
 combining the design control of a pdf with ePub’s searchability and the
@@ -275,7 +275,7 @@ them). The other disadvantage is the format is not responsive - like a
 examples &lt;a
 href="http://www.publishinglab.nl/blog/2015/11/09/fixed-layout-epubs-useful-or-backward/"&gt;here&lt;/a&gt;.
 
-\#\#\# The pros
+### The pros
 
 Distribution: while you can't currently sell .pdfs, you can sell ePubs
 in iBookstore and on Amazon
@@ -300,7 +300,7 @@ design 2 layouts (i.e. a tweaked version for Kobo)
 
 The format doesn't scale for mobile reading.
 
-\#\#\# The controversy
+### The controversy
 
 &lt;blockquote&gt;
 
@@ -335,7 +335,7 @@ ability to modify body margins indicates this limitation. Which
 essentially means designers are bound by the choices of distributors and
 e-reader makers.
 
-\#\#\# The experiment(s)
+### The experiment(s)
 
 To demonstrate, I created a fixed layout epub in InDD CC 2015. It didn't
 take much time to file &gt; export fixed layout, and the pros are that
@@ -349,7 +349,7 @@ and it is only suitable for viewing on an ipad.
 
 Fixed layout viewed on iPhone4s
 
-\#\#\# Reflowable vs Fixed Format
+### Reflowable vs Fixed Format
 
 It's obvious that the reading experience is just as difficult on a
 mobile where you have to zoom to read as it is reading pdfs. Another
@@ -357,7 +357,7 @@ difference between fixed and reflowable ePubs is shown below, see that
 there are 3 pages in this book - and 3 corresponding xhtml files,
 imagine if it had been 130 pages.
 
-\#\#\# Examples
+### Examples
 
 Now that you've seen the rough-and ready test, here is an exciting
 example of a hand-coded ePub3, &lt;a
@@ -366,14 +366,14 @@ which includes columns and an interactive map. This book is really
 inspiring, but it's also custom-made - requiring a skilled developer and
 robust budget.
 
-\#\#\# Additional Reading
+### Additional Reading
 
 For a really clear distinction between ePubs, PDFs and Apps see this
 excellent article from Indesignsecrets
 
-# \# Other Digital Publishing Options 4/4
+# Other Digital Publishing Options 4/4
 
-\#\# Intro
+## Intro
 
 eBooks come in many forms, from native Apps to online reading
 experiences that cross-over to print with the use of MediaWiki and the
@@ -382,7 +382,7 @@ of 2015 working on a custom App and an online reading reading
 experience. Unlike creating ePubs, which can be done with the help of
 Pandoc, both of these workflows required skilled developers.
 
-\#\#\# Examples
+### Examples
 
 example 1:
 
@@ -439,7 +439,7 @@ Format: Online reading, ePub3 & Print on Demand (POD)
 &lt;div class="difficulty-level"&gt;difficulty-level: needs expert
 help&lt;/div&gt;
 
-\#\#\# technical considerations
+### technical considerations
 
 The UNStudio App project was built as a WebApp and then bundled as a
 native App for IOS with the client specifying just one platform: the
@@ -448,7 +448,7 @@ iPad.
 The INC TOD project required a hybrid output - in the form of html, ePub
 and for print.
 
-\#\# How: App & online reading experience
+## How: App & online reading experience
 
 The UNStudio App was built with html, css and javascript by a team of 4
 interns + developer.
@@ -458,7 +458,7 @@ the HPT workflow to create html files from the Word documents. However,
 from there the team had developer help to build custom search functions
 using javascript.
 
-\#\#\# sources / list of inspiration
+### sources / list of inspiration
 
 PublishingLab spoke to other makers and publishers about their digital
 publications. This is a short inventory of what we've found so far...
@@ -470,7 +470,7 @@ their first book.
 Format: App & ePub
 
 &lt;a
-href="http://hackersanddesigners.nl/\#/"&gt;Hackers&Designers&lt;/a&gt;
+href="http://hackersanddesigners.nl/#/"&gt;Hackers&Designers&lt;/a&gt;
 use MediaWiki and &lt;a href="http://beyond-social.org/"&gt;Andre
 Castro&lt;/a&gt; used MediaWiki as well as css to create a printed
 version of the design magazine in partnership with studio &lt;a
@@ -490,7 +490,7 @@ Format: Platform & ePub3
 
 ...
 
-\#\#\# The other possibilities...
+### The other possibilities...
 
 What can be done about visual layouts in digital publications? The IDPF
 is writing standards, however it is unclear whether these will be viable
